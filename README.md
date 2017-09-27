@@ -5,7 +5,8 @@ These are the exercise files used for [Apache Spark Essential Training](https://
 
 The course outline can be found in 
 
-https://www.tertiarycourses.com.sg/apache-spark-training.html
+https://www.tertiarycourses.com.sg/apache-spark-training.html'
+https://www.tertiarycourses.com.my/apache-spark-training-malaysia.html
 
 <p><strong>Module 1: Overview of Apache Spark</strong></p>
 <ul>
