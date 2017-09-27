@@ -1,7 +1,7 @@
 # Apache Spark Essential Training
 ## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
-These are the exercise files used for [Apache Spark Essential Training](https://www.tertiarycourses.com.sg/apache-spark-training.html course. 
+These are the exercise files used for [Apache Spark Essential Training](https://www.tertiarycourses.com.sg/apache-spark-training.html) course. 
 
 The course outline can be found in 
 
